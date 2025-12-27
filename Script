@@ -1,2 +1,2 @@
-wait("1.0")
+wait(".0")
 loadstring(game:HttpGet("https://raw.githubusercontent.com/iCxnicEx/Aimhub2.0/refs/heads/main/AimhubUpdate", true))()
