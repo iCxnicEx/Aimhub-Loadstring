@@ -3,7 +3,8 @@
         "status": "used",
         "discord_id": "1422903569429958677",
         "hwid": "None",
-        "resets": 2
+        "resets": 3,
+        "last_reset": 1766951738.5310025
     },
     "AIM-7UIAQZIQ1KWG": {
         "status": "unused",
