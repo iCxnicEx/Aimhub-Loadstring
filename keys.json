@@ -16,5 +16,12 @@
         "discord_id": "None",
         "hwid": "None",
         "resets": 0
+    },
+    "AIM-4O77UHJ10IA0": {
+        "status": "unused",
+        "discord_id": "None",
+        "hwid": "None",
+        "resets": 0,
+        "last_reset": 0
     }
 }
