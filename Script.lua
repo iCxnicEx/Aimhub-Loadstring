@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/iCxnicEx/Aimhub2.0/refs/heads/main/AIMHUB", true))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/iCxnicEx/hub/refs/heads/main/LAUNCHER", true))()
