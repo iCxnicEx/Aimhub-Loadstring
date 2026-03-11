@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://github.com/iCxnicEx/hub/blob/main/Aimhub-FINAL-PREMIUM", true))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/iCxnicEx/hub/refs/heads/main/Aimhub-FINAL-PREMIUM", true))()
